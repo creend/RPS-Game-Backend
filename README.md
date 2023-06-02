@@ -4,9 +4,9 @@
 
 ## Technologies Used
 
-🔷 Nest.js
-⚡️ TypeScript
-🔌 Socket.io
+1. 🔷 Nest.js
+2. ⚡️ TypeScript
+3. 🔌 Socket.io
 
 ## Getting Started
 
